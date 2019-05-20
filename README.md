@@ -41,5 +41,5 @@ We have deloped a model that is a good predictor of housing prices in King Count
 
 # Future Directions: Take advantage of Geographical price clustering
 
-# Notebook: Bryan DiCarlo MOD 1 Final Project_v5.ipynb
+# Notebook: Bryan DiCarlo MOD 1 Final Project_v7.ipynb
 
